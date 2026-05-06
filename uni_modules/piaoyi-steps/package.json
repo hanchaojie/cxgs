@@ -1,0 +1,16 @@
+{
+    "id": "piaoyi-steps",
+    "name": "Steps 步骤条",
+    "displayName": "Steps 步骤条",
+    "version": "1.0.1",
+    "description": "步骤条插件是一种常用的界面组件，用于展示多个步骤或流程的进度。它通常在用户完成一系列操作或跨越多个页面时，提供了可视化的指导和反馈。",
+    "keywords": [
+        "Steps步骤条",
+        "可扩展能力强",
+        "内容自定义",
+        "开箱即用"
+    ],
+    "dcloudext": {
+        "type": "component-vue"
+    }
+}

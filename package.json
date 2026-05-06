@@ -1,0 +1,15 @@
+{
+    "id": "j-leaflet",
+    "name": "app中使用leaflet地图，大量点位加载",
+    "version": "1.0.2",
+    "description": "解决了app中无法使用leaflet的问题",
+    "keywords": [
+        "leaflet",
+        "地图",
+        "app地图"
+    ],
+    "dependencies": {
+        "crypto-js": "^4.2.0",
+        "jsencrypt": "^3.5.4"
+    }
+}
